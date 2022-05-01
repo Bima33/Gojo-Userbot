@@ -12,7 +12,7 @@ from userbot import CMD_HELP
 from userbot.utils import edit_delete, edit_or_reply, poci_cmd
 
 
-l@poci_cmd(pattern="ig(?: |$)(.*)")
+@poci_cmd(pattern="ig(?: |$)(.*)")
 async def _(event):
     xxnx = event.pattern_match.group(1)
     if xxnx:
