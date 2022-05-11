@@ -38,8 +38,8 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Update & Support
-* Grup Support [[Gojo Userbot]](https://t.me/GojoUserbot)
-* Channel Support [[Gojo Userbot]](https://t.me/GojoProject)
+* Grup Support [[Gojo Userbot]](https://t.me/GojoSupport)
+* Channel Support [[Gojo Project]](https://t.me/GojoProjct)
 
 <details>
     <summary>&#127942 <b>Credits</b></summary><br/>
