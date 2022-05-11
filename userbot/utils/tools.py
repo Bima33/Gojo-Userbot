@@ -13,7 +13,7 @@
 #
 # copyright (C) mrismanaziz
 # Gojo-Userbot < https://github.com/Cloder07/Gojo-Userbot >
-# ReCode @Gojo_satoru44
+# ReCode @Daijobu69
 
 
 import asyncio
