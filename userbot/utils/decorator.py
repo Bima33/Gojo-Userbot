@@ -1,7 +1,7 @@
 # Credits: @mrconfused
 # Ported by @mrismanaziz
 # FROM Man-Userbot
-# ReC0de by @Gojo_satoru44
+# ReC0de by @Daijobu69
 
 import inspect
 import re
