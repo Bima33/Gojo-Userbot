@@ -1,6 +1,6 @@
 # Credits: @mrismanaziz
 # FROM Man-Userbot <https://github.com/mrismanaziz/Man-Userbot>
-# ReCode by @Gojo_satoru44
+# ReCode by @Daijobu69
 import asyncio
 import importlib
 import logging
@@ -32,7 +32,7 @@ else:
 
 async def autopilot():
     LOGS.info("TUNGGU SEBENTAR. SEDANG MEMBUAT GROUP LOG USERBOT UNTUK ANDA")
-    desc = "Group Logs untuk Gojo-UserBot.\nHARAP JANGAN KELUAR DARI GROUP INI.\n\n✨ Powered By ~ @GojoProject"
+    desc = "Group Logs untuk Gojo-UserBot.\nHARAP JANGAN KELUAR DARI GROUP INI.\n\n✨ Powered By ~ @GojoProjct"
     try:
         grup = await bot(
             CreateChannelRequest(title="BOT [ JGN DI HAPUS ]", about=desc, megagroup=True)
@@ -121,7 +121,7 @@ async def autobot():
             await bot.send_message(bf, f"@{username}")
             await asyncio.sleep(1)
             await bot.send_message(
-                bf, f"Owner ~ {who.first_name} \nPowered By ~ @Gojo_satoru44"
+                bf, f"Owner ~ {who.first_name} \nPowered By ~ @Daijobu69"
             )
             await bot.send_message(
                 BOTLOG_CHATID,
@@ -163,7 +163,7 @@ async def autobot():
         await bot.send_message(bf, f"@{username}")
         await asyncio.sleep(1)
         await bot.send_message(
-            bf, f"Owner ~ {who.first_name} \n Powered By ~ @Gojo_satoru44"
+            bf, f"Owner ~ {who.first_name} \n Powered By ~ @Daijobu69"
         )
         await bot.send_message(
             BOTLOG_CHATID,
