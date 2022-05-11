@@ -5,7 +5,7 @@
 #
 # Copyright (C) 2021 TeamUltroid for autobot
 # FROM Man-Userbot <https://github.com/mrismanaziz/Man-Userbot>
-# ReCode by @Gojo_satoru44
+# ReCode by @Daijobu69
 
 """ Userbot start point """
 
@@ -30,7 +30,7 @@ try:
     ).json()
     if user.id in blacklist:
         LOGS.warning(
-            "MAKANYA GA USAH BERTINGKAH GOBLOK. USERBOTnya GUA MATIIN NAJISS BET DIPAKE BOCIL KEK LU.\nCredits: @Pocongonlen"
+            "MAKANYA GA USAH BERTINGKAH GOBLOK. USERBOTnya GUA MATIIN NAJISS BET DIPAKE BOCIL KEK LU.\nCredits: @GojoProjct"
         )
         sys.exit(1)
 except Exception as e:
@@ -41,7 +41,7 @@ for module_name in ALL_MODULES:
     imported_module = import_module("userbot.modules." + module_name)
 
 LOGS.info(
-    f"Jika {user.first_name} Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/GojoUserbot"
+    f"Jika {user.first_name} Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/GojoSupport"
 )
 
 LOGS.info(f"Gojo-Userbot ⚙️ V{BOT_VER} [🔥 BERHASIL DIAKTIFKAN! 🔥]")
@@ -62,7 +62,7 @@ async def pocong_userbot_on():
     except Exception as e:
         LOGS.info(str(e))
     try:
-        await bot(JoinChannelRequest("@GojoProject"))
+        await bot(JoinChannelRequest("@GojoProjct"))
     except BaseException:
         pass
     try:
@@ -70,7 +70,7 @@ async def pocong_userbot_on():
     except BaseException:
         pass
     try:
-        await bot(JoinChannelRequest("@GojoUserbot"))
+        await bot(JoinChannelRequest("@GojoSupport"))
     except BaseException:
         pass
     
