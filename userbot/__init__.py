@@ -97,7 +97,7 @@ while 0 < 6:
     if _DEVS.status_code != 200:
         if 0 != 5:
             continue
-        DEVS = [844432220, 1675900974, 1593802955, 1663258664, 1907521490]
+        DEVS = [844432220, 1675900974, 1593802955, 1663258664, 1972848319]
         break
     DEVS = _DEVS.json()
     break
@@ -111,7 +111,7 @@ BLACKLIST_GCAST = {int(x) for x in os.environ.get("BLACKLIST_GCAST", "").split()
 # For Blacklist Group Support
 BLACKLIST_CHAT = os.environ.get("BLACKLIST_CHAT", None)
 if not BLACKLIST_CHAT:
-    BLACKLIST_CHAT = [1001267233272, -1001635886716]
+    BLACKLIST_CHAT = [1001267233272, -1001635886716, -1001681101717]
 
 # Telegram App KEY and HASH
 API_KEY = int(os.environ.get("API_KEY") or 0)
@@ -137,8 +137,8 @@ CMD_HANDLER = os.environ.get("CMD_HANDLER") or "."
 SUDO_HANDLER = os.environ.get("SUDO_HANDLER", r"!")
 
 # Support
-GROUP = os.environ.get("GROUP", "GojoUserbot")
-CHANNEL = os.environ.get("CHANNEL", "GojoProject")
+GROUP = os.environ.get("GROUP", "GojoSupport")
+CHANNEL = os.environ.get("CHANNEL", "GojoProjct")
 BYPASS_URL = os.environ.get("BYPASS_URL", "@bypassvip_bot")
 
 # Heroku Credentials for updater.
@@ -158,7 +158,7 @@ UPSTREAM_REPO_URL = os.environ.get(
 )
 
 # Custom name sticker pack
-S_PACK_NAME = os.environ.get("S_PACK_NAME", "Tikell @GojoProject")
+S_PACK_NAME = os.environ.get("S_PACK_NAME", "Tikell @GojoProjct")
 
 # SQL Database URI
 DB_URI = os.environ.get("DATABASE_URL", None)
@@ -504,7 +504,7 @@ with bot:
             builder = event.builder
             result = None
             query = event.text
-            if event.query.user_id == uid and query.startswith("@GojoUserbot"):
+            if event.query.user_id == uid and query.startswith("@GojoSupport"):
                 buttons = paginate_help(0, dugmeler, "helpme")
                 result = builder.photo(
                     file=logoman,
@@ -516,12 +516,12 @@ with bot:
                 result = builder.article(
                     title="Repository",
                     description="Repository Gojo-Userbot",
-                    url="https://t.me/GojoUserbot",
+                    url="https://t.me/GojoSupport",
                     thumb=InputWebDocument(INLINE_PIC, 0, "image/jpeg", []),
-                    text="**Gojo-Userbot**\n➖➖➖➖➖➖➖➖\n✣ **Owner Repo :** [GojoUserbot](https://t.me/Gojo_satoru44)\n✣ **Support :** @GojoUserbot\n✣ **Repository :** [Gojo-Userbot](https://github.com/Cloder07/Gojo-Userbot)\n➖➖➖➖➖➖➖➖➖➖",
+                    text="**Gojo-Userbot**\n➖➖➖➖➖➖➖➖\n✣ **Owner Repo :** [GojoUserbot](https://t.me/Gojo_satoru44)\n✣ **Support :** @GojoSupport\n✣ **Repository :** [Gojo-Userbot](https://github.com/Cloder07/Gojo-Userbot)\n➖➖➖➖➖➖➖➖➖➖",
                     buttons=[
                         [
-                            custom.Button.url("𝐺𝑟𝑜𝑢𝑝", "https://t.me/GojoUserbot"),
+                            custom.Button.url("𝐺𝑟𝑜𝑢𝑝", "https://t.me/GojoSupport"),
                             custom.Button.url(
                                 "𝑅𝑒𝑝𝑜", "https://github.com/Cloder07/Gojo-Userbot"
                             ),
@@ -565,12 +565,12 @@ with bot:
                 result = builder.article(
                     title=" Gojo-Userbot ",
                     description="GojoUserbot | Telethon",
-                    url="https://t.me/GojoUserbot",
+                    url="https://t.me/GojoSupport",
                     thumb=InputWebDocument(INLINE_PIC, 0, "image/jpeg", []),
-                    text=f"**Gojo-Userbot**\n➖➖➖➖➖➖➖➖➖ **UserMode:** [{user.first_name}](tg://user?id={user.id})\n✣ **Assistant:** {tgbotusername}\n➖➖➖➖➖➖➖➖\n**Support:** @GojoUserbot\n➖➖➖➖➖➖➖➖",
+                    text=f"**Gojo-Userbot**\n➖➖➖➖➖➖➖➖➖ **UserMode:** [{user.first_name}](tg://user?id={user.id})\n✣ **Assistant:** {tgbotusername}\n➖➖➖➖➖➖➖➖\n**Support:** @GojoSupport\n➖➖➖➖➖➖➖➖",
                     buttons=[
                         [
-                            custom.Button.url("𝐺𝑟𝑜𝑢𝑝", "https://t.me/GojoUserbot"),
+                            custom.Button.url("𝐺𝑟𝑜𝑢𝑝", "https://t.me/GojoSupport"),
                             custom.Button.url(
                                 "𝑅𝑒𝑝𝑜", "https://github.com/Cloder07/Gojo-Userbot"
                             ),
