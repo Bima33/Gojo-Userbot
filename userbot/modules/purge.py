@@ -4,7 +4,7 @@
 # you may not use this file except in compliance with the License.
 #
 # FROM Man-Userbot <https://github.com/mrismanaziz/Man-Userbot>
-# Recode by @Gojo_satoru44
+# Recode by @Daijobu69
 #
 """ Modul Userbot untuk menghapus pesan yang tidak dibutuhkan (chat spam atau lainnya)."""
 
