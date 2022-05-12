@@ -9,9 +9,9 @@ async def usit(event):
     await edit_or_reply(
         event,
         f"**Hai {owner} Kalo Anda Tidak Tau Perintah Untuk Memerintah Ku Ketik** `.help` Atau Bisa Minta Bantuan Ke:\n"
-        f"✣ **GroupSupport :** [Grup Support](t.me/GojoUserbot)\n"
-        f"✣ **Channel :** [Channel](t.me/GojoProject)\n"
-        f"✣ **OwnerRepo :** [Gojo-Userbot](t.me/Gojo_satoru44)\n"
+        f"✣ **GroupSupport :** [Grup Support](t.me/GojoSupport)\n"
+        f"✣ **Channel :** [Channel](t.me/GojoProjct)\n"
+        f"✣ **OwnerRepo :** [Gojo-Userbot](t.me/Daijobu69)\n"
         f"✣ **Repo :** [Gojo-Userbot](https://github.com/Cloder/Gojo-Userbot)\n",
     )
 
@@ -34,7 +34,7 @@ CMD_HELP.update(
         \n\n  •  **Syntax :** `{cmd}repo`\
         \n  •  **Function : **Melihat Repository Gojo-Userbot.\
         \n\n  •  **Syntax :** `{cmd}string`\
-        \n  •  **Function : **Link untuk mengambil String GojoUserbot.\
+        \n  •  **Function : **Link untuk mengambil String Gojostringbot.\
     "
     }
 )
