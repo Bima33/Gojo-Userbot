@@ -3,7 +3,7 @@
 # you may not use this file except in compliance with the License.
 # You can find misc modules, which dont fit in anything xD
 # Copyright (C) 2022 @mrismanaziz
-# ReCode by @Gojo_satoru44
+# ReCode by @Daijobu69
 
 import io
 import os
@@ -113,9 +113,9 @@ async def repo_is_here(event):
     await xx.edit(
         f"**Hey**, Saya Menggunakan  **Gojo-Userbot** \n\n"
         f"┌❏ **UserbotVersion :** `{BOT_VER}@{branch}`\n"
-        f"├❏ **GroupSupport :** [GojoUserbot](t.me/GojoUserbot)\n"
-        f"├❏ **Channel  :** [GojoProject](t.me/GojoProject)\n"
-        f"├❏ **OwnerRepo :** [Gojo-Userbot](t.me/Gojo_satoru44)\n"
+        f"├❏ **GroupSupport :** [GojoUserbot](t.me/GojoSupport)\n"
+        f"├❏ **Channel  :** [GojoProject](t.me/GojoProjct)\n"
+        f"├❏ **OwnerRepo :** [Gojo-Userbot](t.me/Daijobu69)\n"
         f"└❏ **Repo :** [Gojo-Userbot](https://github.com/Cloder07/Gojo-Userbot)\n"
     )
 
