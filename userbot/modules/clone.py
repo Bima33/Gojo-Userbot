@@ -1,6 +1,6 @@
 # Coded by KenHV
 # FORM Man-Userbot <https://github.com/mrismanaziz/Man-Userbot>
-# ReCode by @Gojo_satoru44
+# ReCode by @Daijobu69
 
 from telethon.tl.functions.account import UpdateProfileRequest
 from telethon.tl.functions.photos import DeletePhotosRequest, UploadProfilePhotoRequest
