@@ -2,7 +2,7 @@
 # Licensed under GPLv3
 # Ported from Userge and refactored by @KenHV
 # FROM Man-Userbot
-# Recode by @Gojo_satoru44
+# Recode by @Daijobu69
 
 import os
 import textwrap
