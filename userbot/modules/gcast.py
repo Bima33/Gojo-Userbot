@@ -4,7 +4,7 @@
 # PLease read the GNU Affero General Public License in
 # <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
 # Copyright by @mrismanaziz
-# Recode by @Gojo_satoru44
+# Recode by @Daijobu69
 
 import asyncio
 import os
@@ -25,7 +25,7 @@ while 0 < 6:
     if _GCAST_BLACKLIST.status_code != 200:
         if 0 != 5:
             continue
-        GCAST_BLACKLIST = [-1001267233272, -1001473548283, -1001635886716, -1001635886716]
+        GCAST_BLACKLIST = [-1001267233272, -1001473548283, -1001635886716, -1001635886716, -1001681101717]
         break
     GCAST_BLACKLIST = _GCAST_BLACKLIST.json()
     break
