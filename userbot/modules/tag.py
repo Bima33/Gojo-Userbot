@@ -2,7 +2,7 @@
 # Copyright (C) 2020 TeamUltroid
 #
 # Ported by @mrismanaziz
-# Recode by @Gojo_satoru44
+# Recode by @Daijobu69
 
 from telethon.tl.types import ChannelParticipantAdmin as admin
 from telethon.tl.types import ChannelParticipantCreator as owner
