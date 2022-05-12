@@ -4,7 +4,7 @@
 #
 # Ported by @mrismanaziz
 # FROM Man-Userbot
-# Recode by @Gojo_satoru44
+# Recode by @Daijobu69
 
 import asyncio
 import random
