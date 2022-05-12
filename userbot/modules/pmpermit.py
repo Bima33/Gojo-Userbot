@@ -26,8 +26,8 @@ DEF_UNAPPROVED_MSG = (
     "├ terblokir.\n"
     "└ Bot by **Gojo-Userbot**\n"
     "┌━━━━━━━━━━━━\n"
-    "├❏ Support: @GojoUserbot\n"
-    "├❏ Channel: @GojoProject\n"
+    "├❏ Support: @GojoSupport\n"
+    "├❏ Channel: @GojoProjct\n"
     "└━━━━━━━━━━━━\n"
 )
 
