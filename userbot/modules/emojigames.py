@@ -1,7 +1,7 @@
 # fix by @heyworld for OUB
 # bug fixed by @d3athwarrior
-# Recode by @Gojo_satoru44
-# t.me/GojoUserbot
+# Recode by @Daijobu69
+# t.me/GojoSupport
 
 from telethon.tl.types import InputMediaDice
 
