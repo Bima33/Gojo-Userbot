@@ -1,7 +1,7 @@
 # Copyright (c) 2021 Man-Userbot
 # Created by mrismanaziz
 # FROM Man-Userbot
-# Recode by @Gojo_satoru44
+# Recode by @Daijobu69
 #
 # Thanks To Ultroid <https://github.com/TeamUltroid/Ultroid>
 # Thanks To Geez-UserBot <https://github.com/vckyou/Geez-UserBot>
