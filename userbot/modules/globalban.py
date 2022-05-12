@@ -1,6 +1,6 @@
 # Copyright (C) 2020 Catuserbot <https://github.com/sandy1709/catuserbot>
 # Copyright (C) 2022 Man-Userbot
-# Recode by @Gojo_satoru44
+# Recode by @Daijobu69
 
 import asyncio
 from datetime import datetime
