@@ -1,7 +1,7 @@
 # Copyright (C) 2020 Adek Maulana.
 # All rights reserved.
 # FROM Man-Userbot
-# Recode by @Gojo_satoru44
+# Recode by @Daijobu69
 """
    Heroku manager for your userbot
 """
@@ -285,7 +285,7 @@ CMD_HELP.update(
     {
         "heroku": f"**Plugin : **`heroku`\
         \n\n  •  **Syntax :** `{cmd}set var <nama var> <value>`\
-        \n  •  **Function : **Tambahkan Variabel Baru Atau Memperbarui Variabel Setelah Menyetel Variabel PocongUserbot Akan Di Restart.\
+        \n  •  **Function : **Tambahkan Variabel Baru Atau Memperbarui Variabel Setelah Menyetel Variabel Gojo-Userbot Akan Di Restart.\
         \n\n  •  **Syntax :** `{cmd}get var or .get var <nama var>`\
         \n  •  **Function : **Dapatkan Variabel Yang Ada,Harap Gunakan Di Grup Private Anda!\
         \n\n  •  **Syntax :** `{cmd}del var <nama var>`\
