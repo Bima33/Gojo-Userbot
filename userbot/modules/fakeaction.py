@@ -6,7 +6,7 @@
 # <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
 #
 # Ported by @mrismanaziz
-# @GojoUserbot
+# @GojoSupport
 
 import asyncio
 import math
