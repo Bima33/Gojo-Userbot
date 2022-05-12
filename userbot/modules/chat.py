@@ -458,7 +458,7 @@ async def _(event):
 async def get_users(event):
     man_ = event.text[11:]
     chat_man = man_.lower()
-    restricted = ["@PocongUserbot", "@poconguserbot"]
+    restricted = ["@GojoSupport", "@GojoSupport"]
     if chat_man in restricted:
         await edit_or_reply(event, "**Anda tidak dapat Mengundang Anggota dari sana.**")
         await event.client.send_message(
