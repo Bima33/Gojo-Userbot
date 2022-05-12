@@ -1,6 +1,6 @@
 # Copyright (C) 2022 Man-Userbot
 # PocongUserbot < https://github.com/poocong/PocongUserbot
-# Recode by @Gojo_satoru44
+# Recode by @Daijobu69
 
 import asyncio
 from datetime import datetime
