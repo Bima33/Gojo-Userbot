@@ -1,5 +1,5 @@
 # Copyright by @mrismanaziz
-# Recode by @Gojo_satoru44
+# Recode by @Daijobu69
 # From Man-Userbot
 
 import asyncio
