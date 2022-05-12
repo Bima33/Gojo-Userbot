@@ -1,7 +1,7 @@
 # Credits: @mrismanaziz
 # API by @tofik_dn || https://github.com/tofikdn
 # FROM Man-Userbot
-# Recode by @Gojo_satoru44
+# Recode by @Daijobu69
 
 import requests
 
