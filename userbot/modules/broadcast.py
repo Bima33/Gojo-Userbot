@@ -1,7 +1,7 @@
 # Credit by https://github.com/sandy1709/catuserbot
 # Ported by @X_ImFine
-# Recode by @Gojo_satoru44
-# @GojoUserbot
+# Recode by @Daijobu69
+# @GojoSupport
 
 from asyncio import sleep
 
