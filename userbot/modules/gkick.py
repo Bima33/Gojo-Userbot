@@ -1,6 +1,6 @@
 # Ported by X_ImFine
 # From Man-Userbot @mrismanaziz
-# Recode by @Gojo_satoru44
+# Recode by @Daijobu69
 
 from telethon.tl.functions.contacts import BlockRequest, UnblockRequest
 
