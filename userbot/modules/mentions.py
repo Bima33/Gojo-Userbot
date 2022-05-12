@@ -52,7 +52,7 @@ async def mention(event):
 CMD_HELP.update(
     {
         "mentions": "**Plugin : **`Mentions`\
-        \n\n  •  **Syntax :** `Hi @Gojo_satoru44[Gojo-Userbot]`\
+        \n\n  •  **Syntax :** `Hi @Daijobu69 [Gojo-Userbot]`\
         \n  •  **Result : **Hi [Gojo-Userbot](tg://resolve?domain=Pocongonlen)\
     "
     }
