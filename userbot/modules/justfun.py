@@ -19,7 +19,7 @@ async def _(event):
     await event.delete()
 
 
-# Recode by @Gojo_satoru44
+# Recode by @Daijobu69
 
 
 @bot.on(poci_cmd(outgoing=True, pattern=r"wp(?: |$)(.*)"))
@@ -71,7 +71,7 @@ CMD_HELP.update(
         "secretchat": f"**Plugin : **`secretchat`\
         \n\n  •  **Syntax :** `{cmd}wp <teks> <username/ID>`\
         \n  •  **Function : **Memberikan pesan rahasia haya orang yang di tag yang bisa melihat\
-        \n  •  **Example  : **{cmd}wp aku syng kmu @Gojo_satoru44\
+        \n  •  **Example  : **{cmd}wp aku syng kmu @Daijobu69 \
     "
     }
 )
