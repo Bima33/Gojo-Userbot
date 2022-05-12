@@ -1,5 +1,5 @@
 # Credits: @mrismanaziz
-# Recode by @Gojo_satoru44
+# Recode by @Daijobu69
 
 from telethon.events import ChatAction
 
