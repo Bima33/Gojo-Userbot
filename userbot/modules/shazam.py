@@ -1,6 +1,6 @@
 # Copyright (C) 2021 @mrismanaziz
 # FROM Man-Userbot <https://github.com/mrismanaziz/Man-Userbot>
-# Recode by @Gojo_satoru44
+# Recode by @Daijobu69
 
 from telethon.errors.rpcerrorlist import YouBlockedUserError
 from telethon.tl.functions.contacts import UnblockRequest
