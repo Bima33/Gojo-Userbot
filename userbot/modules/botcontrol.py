@@ -1,7 +1,7 @@
 # Copyright (C) 2020 Catuserbot <https://github.com/sandy1709/catuserbot>
 # Copyright (C) 2021 TeamUltroid <https://github.com/TeamUltroid/Ultroid>
 # Copyright (C) 2022 Man-Userbot
-# ReCode by @Gojo_satoru44
+# ReCode by @Daijobu69
 # From Man-Userbot
 
 import io
