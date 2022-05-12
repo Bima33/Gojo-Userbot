@@ -3,9 +3,9 @@
 # Licensed under the Raphielscape Public License, Version 1.d (the "License");
 # you may not use this file except in compliance with the License.
 #
-# Recode by @Gojo_satoru44
+# Recode by @Daijobu69
 # FROM Man-Userbot
-# t.me/GojoUserbot
+# t.me/GojoSupport
 #
 
 import io
