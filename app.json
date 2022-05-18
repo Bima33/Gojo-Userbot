@@ -3,7 +3,7 @@
   "description": "[Gojo-Userbot] userbot Telegram modular yang berjalan pada Python 3.9+",
   "logo": "https://telegra.ph/file/142cb25695c36bc08211d.jpg",
   "keywords": ["telegram", "userbot", "Gojo-Userbot", "modular", "python"],
-  "repository": "https://github.com/Cloder07/Gojo-Userbot",
+  "repository": "https://github.com/Bima33/Gojo-Userbot",
   "stack": "container",
   "env": {
     "API_KEY": {
